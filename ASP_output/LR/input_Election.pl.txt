@@ -1,0 +1,11 @@
+% warning: att/2 is never defined
+% warning: d/3 is never defined
+Answer: 1
+in(1346) in(1159) in(1363) in(1763) in(1625) in(1450) in(769) in(1513) in(800) in(1698) in(901) in(1309) in(1623) in(897) in(614) in(5) in(1403) in(1005) in(762) in(872) in(874) in(197) in(719) in(582) in(1542) in(1468) in(552) in(331) in(1338) in(49) in(1480) in(467) in(1634) in(606) in(1049) in(1064) in(19) in(1356) in(1669) in(1161) in(458) in(867) in(373) in(647) in(1490) in(1103) in(1300) in(1531) in(824) in(641) in(33) in(870) in(1405) in(1107) in(813) in(1335) in(1616) in(1654) in(356) in(193) in(499) in(923) in(400) in(1038) in(1606) in(9) in(911) in(575) in(166) in(524) in(1222) in(360) in(81) in(1792) in(309) in(632) in(818) in(1039) in(454) in(1814) in(985) in(227) in(1592) in(396) in(1259) in(1493) in(1838) in(1554) in(4) in(1831) in(1662) in(310) in(1773) in(1418) in(89) in(190) in(1478) in(1312) in(1068) in(237) in(1377) in(1800) in(1815) in(332) in(1512) in(1798) in(1788) in(1386) in(1471) in(1444) in(1520) in(1069) in(586) in(251) in(770) in(429) in(834) in(1547) in(738) 
+SATISFIABLE
+
+Models      : 1     
+Time        : 0.230
+  Prepare   : 0.190
+  Prepro.   : 0.040
+  Solving   : 0.000

@@ -1,0 +1,11 @@
+% warning: att/2 is never defined
+% warning: d/3 is never defined
+Answer: 1
+in(1318) in(1006) in(1702) in(1603) in(1809) in(281) in(1552) in(73) in(330) in(757) in(131) in(930) in(932) in(944) in(981) in(232) in(1322) in(1404) in(1567) in(1475) in(1437) in(1024) in(1752) 
+SATISFIABLE
+
+Models      : 1     
+Time        : 0.000
+  Prepare   : 0.000
+  Prepro.   : 0.000
+  Solving   : 0.000

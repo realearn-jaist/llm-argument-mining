@@ -1,0 +1,10 @@
+% warning: d/3 is never defined
+Answer: 1
+in(1746) in(1345) in(574) in(338) in(806) in(805) in(693) in(1584) in(1205) in(1586) in(1045) in(1096) 
+SATISFIABLE
+
+Models      : 1     
+Time        : 0.000
+  Prepare   : 0.000
+  Prepro.   : 0.000
+  Solving   : 0.000

@@ -1,0 +1,10 @@
+% warning: d/3 is never defined
+Answer: 1
+in(437) in(54) in(473) in(369) in(218) in(516) in(1615) in(22) in(594) in(679) in(308) in(861) in(1303) in(588) in(324) in(318) in(523) in(450) in(857) in(746) in(207) in(1493) in(302) in(1235) in(563) in(1215) in(710) in(1822) in(1793) in(1232) in(58) in(1013) in(1626) in(325) in(1434) in(720) in(1291) in(1741) in(1162) in(832) in(1204) in(845) in(1847) in(274) in(381) in(548) in(213) in(1156) in(866) in(1644) in(1663) in(1688) in(1203) in(1088) in(395) in(743) in(1819) in(211) in(1244) in(343) in(234) in(1252) in(135) in(1550) in(1559) in(1194) in(1087) in(1166) in(1046) in(389) in(1307) in(451) in(1324) in(1292) in(1837) in(571) in(1067) in(877) in(1193) in(1211) in(498) in(364) in(375) in(1346) in(526) in(1446) in(203) in(584) in(461) in(456) in(406) in(275) in(1709) in(62) in(1092) in(694) in(1811) in(1280) in(1400) in(646) in(713) in(539) in(1458) in(1334) in(417) in(1544) in(323) in(1517) in(846) in(1025) in(78) in(1137) in(653) in(772) in(294) in(438) in(1180) in(688) in(255) in(67) in(667) in(1104) in(157) in(1153) in(894) in(220) 
+SATISFIABLE
+
+Models      : 1     
+Time        : 27.830
+  Prepare   : 20.030
+  Prepro.   : 7.800
+  Solving   : 0.000

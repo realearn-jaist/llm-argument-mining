@@ -1,0 +1,11 @@
+% warning: att/2 is never defined
+% warning: d/3 is never defined
+Answer: 1
+in(57) in(1367) in(724) in(1054) in(179) in(394) in(1293) in(621) in(879) in(171) in(891) in(1169) in(508) in(902) in(276) in(257) in(701) in(951) in(933) in(446) in(826) in(747) in(1022) in(191) in(500) in(226) in(1593) in(1539) in(568) in(1533) in(319) in(1826) in(853) in(1622) in(644) in(821) in(1200) in(1653) in(1536) in(72) in(1525) in(702) in(1469) in(1772) in(910) in(1408) in(497) in(765) in(6) in(840) in(1401) in(1630) in(1230) in(640) in(1758) in(1065) in(737) in(1089) in(1656) in(1398) in(277) 
+SATISFIABLE
+
+Models      : 1     
+Time        : 0.040
+  Prepare   : 0.030
+  Prepro.   : 0.010
+  Solving   : 0.000

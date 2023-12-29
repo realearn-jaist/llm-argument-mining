@@ -1,0 +1,10 @@
+% warning: d/3 is never defined
+Answer: 1
+in(1528) in(439) in(181) in(475) in(112) in(24) in(1178) in(1323) in(1085) in(754) in(1201) in(1123) in(1561) in(367) in(1660) in(491) in(168) in(169) in(436) in(479) in(976) in(414) in(1296) in(371) in(676) in(811) 
+SATISFIABLE
+
+Models      : 1     
+Time        : 0.010
+  Prepare   : 0.010
+  Prepro.   : 0.000
+  Solving   : 0.000
